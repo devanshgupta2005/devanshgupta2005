@@ -1,114 +1,202 @@
-# Hi 👋, I'm DEVANSH GUPTA
+<div align="center">
 
-### Full Stack Developer | B.Tech CSE (AI) Student | Problem Solver
+# Hi, I'm Devansh Gupta 👋
+
+### Full Stack Developer • B.Tech CSE (AI) Student • Building Scalable Web Applications
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+AI+%26+Cloud;Always+Building+Something+New" />
+
+<p>
+  <a href="https://github.com/devanshgupta2005">
+    <img src="https://img.shields.io/github/followers/devanshgupta2005?label=Followers&style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=devanshgupta2005&style=for-the-badge&color=blue">
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE (Artificial Intelligence)
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning Backend Development & AI
-- ⚡ Interested in Web Development, Open Source & Automation
-- 📍 India
+💻 Passionate Full Stack Developer focused on building fast, scalable and user-friendly web applications.
+
+🎓 B.Tech Computer Science & Engineering (Artificial Intelligence)
+
+🌱 Currently learning
+
+- Advanced Backend Development
+- System Design
+- Cloud Computing
+- AI Integration in Web Applications
+
+🚀 Interested in
+
+- Full Stack Development
+- Open Source
+- Software Engineering
+- AI Powered Applications
 
 ---
 
-## 🛠 Tech Stack
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/devansh-gupta-5600a4284/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/devanshgupta2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
----
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p>
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
----
+</p>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+<p>
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
----
+</p>
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+<img src="https://skillicons.dev/icons?i=js,java,python,c"/>
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
----
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Figma
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshgupta2005&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta2005&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devanshgupta2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshgupta2005&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-
-Personal portfolio built using HTML, CSS and JavaScript.
-
-### 🛒 E-Commerce Website
-
-Full Stack shopping application using MERN Stack.
-
-### 📋 Task Manager
-
-Task Management System using React + Node + MongoDB.
-
-### 💬 Chat Application
-
-Real-time chat application using Socket.io.
+</div>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-LinkedIn:
-https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/devansh-gupta-5600a4284/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKg%2FoG8M8TFGVH8dV40nlWg%3D%3D)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshgupta2005&theme=tokyonight&hide_border=true"/>
 
-
-Email:
-contactdevanshgupta2005@gmail.com
+</div>
 
 ---
 
-## 👀 Visitor Count
+# 📈 Contribution Graph
 
-![](https://komarev.com/ghpvc/?username=devanshgupta2005&color=blue)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta2005&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## ⭐ Quote
+# 🚀 Featured Projects
 
-> "Code. Learn. Build. Repeat."
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🌐 Portfolio Website | Responsive personal portfolio | HTML, CSS, JavaScript |
+| 🛒 E-Commerce Platform | Authentication, Cart, Payments | MERN Stack |
+| 💬 Chat Application | Real-time messaging | React, Node.js, Socket.io |
+| 📋 Task Manager | CRUD Operations | React, Express, MongoDB |
+| 📚 LMS Platform | Student Learning Management System | MERN |
+| 🤖 AI Assistant | AI integrated productivity application | React + AI APIs |
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devanshgupta2005&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React
+- Next.js
+- TypeScript
+- Docker
+- AWS
+- System Design
+- Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-grade Full Stack applications
+- Contribute to Open Source
+- Master MERN Stack
+- Learn Cloud & DevOps
+- Solve 500+ DSA problems
+- Land a Software Development role
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while(alive){
+    eat();
+    code();
+    learn();
+    build();
+    repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code with purpose. Build with passion."*
+
+</div>
